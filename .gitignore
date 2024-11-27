@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+local.env
+public
+Dockerfile
+.dockerignore
+#prod.env
+test.env
+test
+
+# package directories
+jspm_packages
