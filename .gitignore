@@ -4,7 +4,7 @@ local.env
 public
 Dockerfile
 .dockerignore
-#prod.env
+prod.env
 test.env
 test
 
